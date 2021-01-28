@@ -1,3 +1,3 @@
 # doiit-bildklassifizierung
 
-Den Beitrag zu diesem Notebook findest Du auf [kindustrii](https://kindustrii.de/doiit/grundlagen-ki-spracherkennung).
+Den Beitrag zu diesem Notebook findest Du auf [kindustrii](https://kindustrii.de/doiit/bildklassifizierung-teil-1/).
